@@ -1,4 +1,4 @@
-# studyjam_18012019
+# Google Study jam 18/01/2019
 
 A Goolge Flutter study jam TOT project held on 18/01/2019.
 
